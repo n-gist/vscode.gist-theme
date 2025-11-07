@@ -1,6 +1,4 @@
 # Gist Color Theme
-[![Marketplace](https://img.shields.io/visual-studio-marketplace/v/gist.gist-theme)](https://marketplace.visualstudio.com/items/gist.gist-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/gist.gist-theme)](https://marketplace.visualstudio.com/items/gist.gist-theme)
 
 Dark color theme designed to focus on the most important code entities<br />
 Syntax highlighting follows the concept of temperature/stability:<br />
@@ -11,16 +9,12 @@ Syntax highlighting follows the concept of temperature/stability:<br />
 - Constants - coldest and most stable, as they are unchangeable, have a cold blue color
 - Keywords, control keywords, types - have standard colors from VS Code Dark theme
 - Punctuation and operators are darkened
-- Tested on TypeScript. Post an issue for your language, if any
+- Syntax highlighting tested on Typescript
 
 <br />
 
-[![](https://raw.githubusercontent.com/n-gist/n-gist.github.io/master/images/VsCodeTheme_1.png)](https://raw.githubusercontent.com/n-gist/n-gist.github.io/master/images/VsCodeTheme_1.png)
+[![](images/theme_1.png)](https://github.com/n-gist/vscode-gist-theme/raw/HEAD/images/theme_1.png)
 
-<br/>
+<br />
 
-[![](https://raw.githubusercontent.com/n-gist/n-gist.github.io/master/images/VsCodeTheme_2.png)](https://raw.githubusercontent.com/n-gist/n-gist.github.io/master/images/VsCodeTheme_2.png)
-
-<br/>
-
-[![](https://raw.githubusercontent.com/n-gist/n-gist.github.io/master/images/VsCodeTheme_3.png)](https://raw.githubusercontent.com/n-gist/n-gist.github.io/master/images/VsCodeTheme_3.png)
+[![](images/theme_2.png)](https://github.com/n-gist/vscode-gist-theme/raw/HEAD/images/theme_2.png)
