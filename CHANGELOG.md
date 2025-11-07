@@ -1,3 +1,5 @@
+## [2.0.1]
+- Extension page adjustments
 ## [2.0.0]
 - Syntax highlighting review, other adjustments
 ## [1.0.10]
