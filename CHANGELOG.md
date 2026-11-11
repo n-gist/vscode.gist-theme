@@ -1,3 +1,5 @@
+## [2.0.2]
+- Adjustments, some adaptation to modern UI (still experimental)
 ## [2.0.1]
 - Extension page adjustments
 ## [2.0.0]

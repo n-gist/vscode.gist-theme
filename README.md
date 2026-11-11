@@ -13,8 +13,8 @@ Syntax highlighting follows the concept of temperature/stability:<br />
 
 <br />
 
-[![](images/theme_1.png)](https://github.com/n-gist/vscode-gist-theme/raw/HEAD/images/theme_1.png)
+[![](images/theme_1.png)](https://github.com/n-gist/vscode.gist-theme/raw/HEAD/images/theme_1.png)
 
 <br />
 
-[![](images/theme_2.png)](https://github.com/n-gist/vscode-gist-theme/raw/HEAD/images/theme_2.png)
+[![](images/theme_2.png)](https://github.com/n-gist/vscode.gist-theme/raw/HEAD/images/theme_2.png)
